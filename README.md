@@ -48,10 +48,10 @@ Para executar o programa, siga os passos abaixo:
 ## Exemplo de Saída
 
 Se o arquivo `hey.txt` contiver o texto "Hello, World!", a saída será semelhante a esta:
-    ```bash
-    Conteúdo do arquivo:
-    Hello World!
-    Tamanho do arquivo: 12 bytes
-    Tamanho da página de memória: 4096 bytes
-    Número de páginas necessárias: 1
-    ```
+```bash
+Conteúdo do arquivo:
+Hello World!
+Tamanho do arquivo: 13 bytes
+Tamanho da página de memória: 4096 bytes
+Número de páginas necessárias: 1
+```
