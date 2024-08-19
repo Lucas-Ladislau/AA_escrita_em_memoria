@@ -8,7 +8,7 @@
 
 int main(int argc, char *argv[]) {
     if (argc != 2) {
-        fprintf(stderr, "Uso: %s <nome_do_arquivo>\n", argv[0]);
+        fprintf(stderr, "Arquivo: %s <nome_do_arquivo>\n", argv[0]);
         return EXIT_FAILURE;
     }
 
