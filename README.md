@@ -51,7 +51,12 @@ Se o arquivo `hey.txt` contiver o texto "Hello, World!", a saída será semelhan
 ```bash
 Conteúdo do arquivo:
 Hello World!
-Tamanho do arquivo: 13 bytes
+Tamanho do arquivo: 12 bytes
 Tamanho da página de memória: 4096 bytes
 Número de páginas necessárias: 1
 ```
+
+## Outros arquivos de teste
+Os outros arquivos de teste são:
+- Bíblia completa(kjv.txt)
+- Script do filme Interestelar(interstellar.txt)
