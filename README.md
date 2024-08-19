@@ -1,0 +1,1 @@
+# AA_escrita_em_mem-ria
